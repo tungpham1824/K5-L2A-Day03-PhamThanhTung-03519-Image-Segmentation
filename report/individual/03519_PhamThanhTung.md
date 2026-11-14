@@ -1,6 +1,6 @@
 # Báo cáo thực hành Day 3 — Segmentation
 
-- Mã học viên theo lớp: 03519
+- Mã học viên theo lớp: 03159
 - Ngày / CVAT local: …
 - Công cụ đã dùng: SAM 2.1
 
